@@ -1,0 +1,23 @@
+body {
+  padding: 1rem;
+  background-color: #000033;
+  color: #f7fff7;
+  text-align: center;
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+p {
+  font-size: 2rem;
+}
+
+a {
+  color: #ffc800;
+}
+
+a:focus, a:hover {
+  text-decoration: none;
+}/*# sourceMappingURL=styles.css.map */
